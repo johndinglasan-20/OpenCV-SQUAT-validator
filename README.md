@@ -1,15 +1,16 @@
-\# 🏋️‍♂️ AI Powerlifting Squat Validator
+# 🏋️‍♂️ AI Powerlifting Squat Validator
 
-![Squat in azione](squat-analizzato.gif)
-!\[Python](https://img.shields.io/badge/Python-3.12-blue?logo=python\&logoColor=white)
+![Squat in azione](squat_analizzato.gif)
 
-!\[OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python\&logoColor=white)
 
-!\[YOLOv8](https://img.shields.io/badge/YOLOv8-Pose-yellow)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv\&logoColor=white)
 
-!\[CUDA](https://img.shields.io/badge/CUDA-13.0-76B900?logo=nvidia\&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Pose-yellow)
 
+![CUDA](https://img.shields.io/badge/CUDA-13.0-76B900?logo=nvidia\&logoColor=white)
 
+![Squat in azione](squat_analizzato.gif)
 
 Un sistema di Computer Vision basato su \*\*YOLOv8 Pose Estimation\*\* e \*\*OpenCV\*\* per analizzare e validare in automatico la profondità dello squat secondo gli standard delle gare di Powerlifting (FIPL/IPF).
 
