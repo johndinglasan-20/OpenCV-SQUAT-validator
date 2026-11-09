@@ -1,7 +1,5 @@
 # 🏋️‍♂️ AI Powerlifting Squat Validator
 
-![Squat in azione](squat_analizzato.gif)
-
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python\&logoColor=white)
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv\&logoColor=white)
