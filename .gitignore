@@ -1,0 +1,6 @@
+﻿venv/
+venv_gpu/
+*.mp4
+*.mov
+__pycache__/
+*.pt
