@@ -1,12 +1,6 @@
 # 🏋️‍♂️ AI Powerlifting Squat Validator
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python\&logoColor=white)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv\&logoColor=white)
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Pose-yellow)
-
-![CUDA](https://img.shields.io/badge/CUDA-13.0-76B900?logo=nvidia\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Pose-yellow) ![CUDA](https://img.shields.io/badge/CUDA-13.0-76B900?logo=nvidia&logoColor=white)
 
 ![Squat in azione](squat_analizzato.gif)
 
